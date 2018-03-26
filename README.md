@@ -22,6 +22,7 @@ Curated DevOps resources
 * [What is TDD?](https://en.wikipedia.org/wiki/Test-driven_development)
 * [Automated Testing Value](http://jamesgolick.com/2007/8/22/we-dont-write-tests-there-just-isnt-time-for-luxuries.html)
 * [Advanced Mocking and Unit testing on Java](http://www.vogella.com/tutorials/JUnit/article.html)
+* [Java Mocking for Unit Testing using Mockito](http://www.vogella.com/tutorials/Mockito/article.html)
 * [Unit testing NodeJS](https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/)
 * [Unit testing Python](http://www.diveintopython3.net/unit-testing.html)
 * [Using Jest to test React Native Apps](https://facebook.github.io/jest/docs/en/tutorial-react-native.html)
